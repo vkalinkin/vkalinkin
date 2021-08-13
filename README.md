@@ -2,7 +2,7 @@
 
 ##### Hi, my name is Victor Kalinkin! 👋 I'm a full stack web developer current in Phoenix, Arizona.
 
-##### I know Javascript, HTML, CSS, Node, React, SQL, and Java. 
+##### I work in Javascript, HTML, CSS, Node, React, SQL, and Java. 
 
 ##### I've been building and solving problems my entire life through different fields and studies. That has currently taken me to web devleopment and I am currently working on imporoving my React and backend skills.
 
