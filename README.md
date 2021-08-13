@@ -1,12 +1,14 @@
-### Hi, my name is Victor Kalinkin! 👋 I'm a full stack web developer current in Phoenix, Arizona.
+## About Me:
 
-### I know Javascript, HTML, CSS, Node, React, SQL, and Java. 
+#### Hi, my name is Victor Kalinkin! 👋 I'm a full stack web developer current in Phoenix, Arizona.
 
-### I've been building and solving problems my entire life through different fields and studies. That has currently taken me to web devleopment and I am currently working on imporoving my React and backend skills.
+#### I know Javascript, HTML, CSS, Node, React, SQL, and Java. 
 
-### 📫 How to reach me: https://www.linkedin.com/in/victor-kalinkin/
+#### I've been building and solving problems my entire life through different fields and studies. That has currently taken me to web devleopment and I am currently working on imporoving my React and backend skills.
 
-### ⚡ Fun fact: I have a Bachelor's degree in Molecar Biology.
+#### 📫 How to reach me: https://www.linkedin.com/in/victor-kalinkin/
+
+#### ⚡ Fun fact: I have a Bachelor's degree in Molecar Biology.
 <!--
 **vkalinkin/vkalinkin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
